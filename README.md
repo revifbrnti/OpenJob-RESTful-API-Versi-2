@@ -2,7 +2,7 @@
 
 RESTful API untuk platform rekrutmen kerja dengan fitur upload CV/Resume PDF, caching Redis, dan notifikasi email via RabbitMQ.
 
-** Belajar Fundamental Back-End dengan JavaScript **
+**Belajar Fundamental Back-End dengan JavaScript**
 
 ## Fitur Utama
 
